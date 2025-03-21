@@ -1,1 +1,1 @@
-[https://ahmetabic.com/parazit-seo/](Parasite SEO)
+[https://ahmetabic.com/parazit-seo/] (Parasite SEO)
