@@ -1,1 +1,1 @@
-[https://ahmetabic.com/parazit-seo/] (Parasite SEO)
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
